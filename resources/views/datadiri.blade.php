@@ -35,7 +35,7 @@
             </tr>
             <tr>
                 <td>Alamat </td>
-                <td>: Tlogo, Blitar</td>
+                <td>: Telogo, Blitar</td>
             </tr>
             <tr>
                 <td colspan=4 style="padding-bottom: 50px;"></td>
